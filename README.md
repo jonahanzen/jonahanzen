@@ -12,15 +12,15 @@ Para este feito, organizei um Roadmap até Outubro, que é quando termino um pro
 
 # RoadMap to Success :sunglasses: ( *curso/instituição* )
 
-TO DOish : 
+TO-DOish : 
 
 [CS50](https://cs50.harvard.edu/x/2021/) : Ciências da Computação por Havard, que infelizmente não terminarei até Outubro,
 o curso tem a abordagem com C, Python, e outras ferramentas que divergem muito do que já estou vendo, o que poderia me deixar confuso,
 então este deixo para até Dezembro ou começo de 2022. :worried:
 
 Spring Boot :atom_symbol: : O pouco de interação que tive com esse framework me deixou muito animado, ele facilita bastante inúmeros processos,
-porém ainda estou vendo a forma que irei aprender/em qual instituição. A princípio, estou cogitando começar pelo da [Amigoscode](https://amigoscode.com/p/spring-boot),
-e seguir para algum da Udemy quando estiver em oferta. :rofl:
+porém ainda estou vendo a forma que irei aprender/em qual instituição. Já tive uma introdução bem legal pelo curso da [Amigoscode](https://amigoscode.com/p/spring-boot), e
+pelo que fiz da Udemy.
 
 Java / Geral :man_student: : Tenho buscado melhorar minhas noções de **Maven** e as diferentes configurações no **Eclipse** para não ter um "choque"
 quando for colocar os projetos em produção. Aprendendo conceitos de Clean Code e Best Practices, completamente fissurado em aprender a lidar com API's (REST/RESTful),
@@ -39,6 +39,15 @@ tratamento de arquivos e um sistema WEB 100% funcional.
 Carga Horária: 480 Horas.
 
 ## :atom: Concluídos :
+
+- ### Getting started with Spring Boot / AmigosCode.
+
+A didática do Nelson é muito boa, é super fácil de entender os "comos" e "porques" de cada coisa, então mesmo que introdutório, aprendi melhor a lidar com Endpoints, API's, e
+mesmo gerar um jar executável da aplicação com o Maven.
+
+***Highlights***: Spring Boot, Maven, Postman.
+
+Carga Horária: 2 horas.
 
 
 - ### Java 2021 COMPLETO: Do Zero ao Profissional + Projetos! / UDEMY .
