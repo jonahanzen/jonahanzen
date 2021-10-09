@@ -5,89 +5,32 @@ Eu me chamo Jonathan, mas pode me chamar de Jonny. Amo tecnologia, línguas e ca
 
 Estou no [***LinkedIn***](https://www.linkedin.com/in/jonathanhflores/) também!
 
-Fui professor de inglês por dois anos, é a minha segunda natureza, simplesmente adoro ensinar, lidar com outras pessoas e, adoro entender os mais variados sotaques,
-a minha primeira natureza, porém é a programação, eu sempre fui muito interessado, é um assunto que sempre me gerou muita curiosidade e
-agora em 2021 tenho a oportunidade de, de fato me profissionalizar na área. 
-Para este feito, organizei um Roadmap até Outubro, que é quando termino um programa de formação / Bootcamp chamado [ENTRA21](https://www.entra21.com.br/). O objetivo é buscar algumas certificações e me aprofundar em certos conceitos que podem facilitar a minha entrada no mercado de trabalho como Dev 👀 . Por momento o foco está no trabalho final do ENTRA21, mas logo após a conclusão do RoadMap, que em tese termina comigo em uma empresa que represente o meu amor por tecnologia, eu pretendo criar alguns repositórios que transcrevam  de forma didática algumas maravilhas que aprendi ao longo desses meses e ajudem um bocado de pessoas 😁 (como o do [Hibernate](https://github.com/jonahanzen/Hibernate-Exemplo) que criei)
+- :atom:  Cursando Bacharelado em Engenharia de Software pela Unifatecie.
+
+👨‍🔬 Atualmente estou finalizando um Bootcamp ***Fullstack*** focado em ***Java*** para ***desenvolvimento Web***. Foi um Sprint legal entre aprender uma série de tecnologias e me ver diante de situações desafiadoras, tendo de correr atrás de cursos para alcançar o meu objetivo e resolver inúmeros problemas; devorei muito conteúdo nesse meio tempo e estou em uma "paixonite" com o Framework Spring e o Java EE 😜. O "modelo" FullStack me chama muita atenção e interesse por ter contato com um número elevado de tecnologias, e também acaba gerando uma autonomia maior por você ser o responsável, como diria a Netflix, pelo ciclo todo de uma aplicação.
+
+### Tecnologias e ferramentas ###
+'<img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/java/java-original.svg" height="23" alt="Java" title="Java" />
+&nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/css3/css3-original.svg" height="23" alt="CSS3" title="CSS3" />
+&nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/html5/html5-original.svg" height="23" alt="HTML5" title="HTML5" />
+&nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/jquery/jquery-original.svg" height="23" alt="JQuery" title="JQuery" />
+&nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/spring/spring-original.svg" height="23" alt="Spring" title="Spring" />
+&nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/postgresql/postgresql-original.svg" height="23" alt="PostgreSQL" title="PostgreSQL" />
+&nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/mysql/mysql-original.svg" height="23" alt="MySQL" title="MySQL" />
+&nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/bootstrap/bootstrap-original.svg" height="23" alt="Bootstrap" title="Bootstrap" />
+
+### Pretendo aprender
+
+'<img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/angularjs/angularjs-original.svg" height="23" alt="Angular" title="Angular" />
+&nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/javascript/javascript-plain.svg" height="23" alt="JavaScript" title="JavaScript" /> 
 
 
-# RoadMap to Success :sunglasses: ( *curso/instituição* )
-
-TO-DOish : 
-
-[CS50](https://cs50.harvard.edu/x/2021/) : Ciências da Computação por Havard, que infelizmente não terminarei até Outubro,
-o curso tem a abordagem com C, Python, e outras ferramentas que divergem muito do que já estou vendo, o que poderia me deixar confuso,
-então este deixo para até Dezembro ou começo de 2022. :worried:
-
-Spring Boot :atom_symbol: : O pouco de interação que tive com esse framework me deixou muito animado, ele facilita bastante inúmeros processos, já tive uma introdução bem legal pelo curso da [Amigoscode](https://amigoscode.com/p/spring-boot), e agora estou fazendo um da [Udemy](https://www.udemy.com/course/spring-hibernate-tutorial/) que aborda praticamente todo o Framework do Spring. Os guides e a documentação do Spring também são super didáticos, então continuarei lendo por lá, afinal não há argumentos contra a documentação oficial.
-
-Java / Geral :man_student: : Tenho buscado melhorar minhas noções de **Maven** e as diferentes configurações no **Eclipse** para não ter um "choque"
-quando for colocar os projetos em produção. Aprendendo conceitos de Clean Code e Best Practices, completamente fissurado em aprender a lidar com API's (REST/RESTful),
-e apaixonado pelo Hibernate.
-
-
-## :electron:  Em progresso :
-
-- ### [Spring & Hibernate for Beginners (includes Spring Boot)](https://www.udemy.com/course/spring-hibernate-tutorial/)
-
-Esse curso aborda boa parte do "ecossistema" do Spring, eu estou muito animado e pretendo construir alguns projetos a nível de amostra para fixar o conhecimento. Minha expectativa é que após esse curso, eu já esteja bem mais familiarizado com o potencial do Spring como um todo e, possa junto a documentação oficial desenvolver aplicações atualizadas com o mercado. Esse curso também representa o meu Sprint final do Bootcamp! É poético começar a aprender Spring com a primavera logo aí 🌞.
-
-Carga Horária: 41 Horas.
-
-- ### [JAVA WEB / ENTRA21](https://www.entra21.com.br/).
-
-Além dos fundamentos de Java, o curso por ser voltado a WEB, também conta com HTML, CSS, JavaScript no Front-End,
-bem como PostgreSQL para persistência de dados, além disso o curso conta com Inglês, Empreendedorismo e Gestão Pessoal.
-A apresentação do projeto final será em Outubro, o trabalho do meu grupo conta com o consumo de uma API de pagamentos,
-tratamento de arquivos e um sistema WEB 100% funcional.
-
-Carga Horária: 480 Horas.
-
-## :atom: Concluídos :
-
-- ### [Oracle Certified Associate Java Programmer (OCAJP) 1Z0-808 / UDEMY](https://www.udemy.com/course/oracle-certification-1z0-808-and-1z0-811-learnit/)
-
-O curso é um arranjado da base do JAVA SE 8,  e é uma forma de eu começar mesmo que de forma breve, os estudos para possivelmente prestar a prova ano que vem. Além do curso,
-eu pretendo continuar os estudos com estes dois livros: [OCA: Oracle Certified Associate Java SE 8 Programmer I Study Guide](https://www.amazon.com.br/dp/B00R04DF3I/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1) e também [Java: como programar 10ª Edição (Deitel)](https://www.amazon.com/Java-programar-Portuguese-Paul-Deitel-ebook/dp/B01IPIN4WO)
-
-***Highlights***: Documentation, Annotation, Reflection.
-
-Carga Horária: 12.5 Horas. [CERTIFICADO](https://www.udemy.com/certificate/UC-edf2b566-699b-4e9b-89a4-cb36309be0ba/)
-
-- ### [Git from Basics to developer / UDEMY](https://www.udemy.com/course/git-learnit/).
-
-Curso que visa solidificar os conceitos de Git como merges, branches, snapshots, integração com eclipse, etc.
-
-***Highlights***: Merges, Branches, Commits, Spicy CLI Commands 😁.
-
-Carga Horária: 3.5 Horas. [CERTIFICADO](https://www.udemy.com/certificate/UC-a1ca82bd-a94f-4734-bd1e-1a6444293280/)
-
-- ### [Getting started with Spring Boot / AmigosCode](https://amigoscode.com/p/spring-boot).
-
-A didática do Nelson é muito boa, é super fácil de entender os "comos" e "porques" de cada coisa, então mesmo que introdutório, aprendi melhor a lidar com Endpoints, API's, e
-mesmo gerar um jar executável da aplicação com o Maven.
-
-***Highlights***: Spring Boot, Maven, Postman.
-
-Carga Horária: 2 horas.
-
-
-- ### [Java 2021 COMPLETO: Do Zero ao Profissional + Projetos! / UDEMY](https://www.udemy.com/course/fundamentos-de-programacao-com-java/) .
-
-Que curso! Os fundamentos da
-linguagem ficaram muito bem solidificados, a didática é maravilhosa! Os meus conceitos de Orientação a Objetos melhoraram bastante, entender diferentes paradigmas, estruturas e já poder "arranhar" conceitos mais complexos no Java foi algo que me deixou bem animado para continuar aprendendo mais.
-
-***Highlights***: MySQL, JPA, Hibernate, MongoDB, Spring Boot.
-
-Carga Horária : 77 Horas. [CERTIFICADO](https://www.udemy.com/certificate/UC-1c42f6ea-b694-4668-a108-9d4bc58643d2/)
-
-
-
-- ### [Agile Project Management: Agile, Scrum, Kanban & XP / UDEMY](https://www.udemy.com/course/agile-project-management-genman/).
-
-Eu acho que aprender os conceitos de metodologias ágeis com sotaque indiano definitivamente mostra a seriedade desse roadmap :laughing: ,
-de qualquer forma, tirei bastante proveito do curso, e definitivamente entendi o porquê da tamanha demanda no mercado de pessoas que possuam esses conhecimentos
-
-***HighLights***: User Stories, Sprints, Kanban Board, Pair Programming, Waterfall, Burn down chart, Scrum events, roles and artifacts.
-
-Carga Horária : 4.5 Horas. [CERTIFICADO](https://www.udemy.com/certificate/UC-e34c335a-b293-418b-906c-fcda4bd28747/)
+ 
