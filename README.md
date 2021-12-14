@@ -1,42 +1,16 @@
 
+
 #  Olá! Bem vindx! :wave:
 
-Eu me chamo Jonathan, mas pode me chamar de Jonny. Amo tecnologia, línguas e café. Gosto de ajudar as pessoas, e da ideia de que as coisas podem ser mais fáceis, ou automáticas.
+👨‍🔬 Em Outubro, terminei um Bootcamp ***Fullstack*** focado em ***Java*** para ***desenvolvimento Web***, de onde comecei minha carreira como desenvolvedor e também dei entrada na faculdade de Engenharia de Software.
 
-Estou no [***LinkedIn***](https://www.linkedin.com/in/jonathanhflores/) também!
+Estou em um Sprint de cursos para aprender diversos frameworks/ferramentas que se integram ao Java, e poder ter uma noção legal, me tornar um desenvolvedor melhor e mais articulado. O objetivo é, até o final deste ano (2021) ter uma noção melhor sobre:
 
-- :atom:  Cursando Bacharelado em Engenharia de Software pela Unifatecie.
+- Jakarta EE / Java EE : JAX-RS, JAX-WS, EJB, CDI, JPA, JTA, JDBC, Hibernate
+- JSP, JSF, PrimeFaces, RichFaces, Struts, Thymeleaf
+- Spring Core, Spring AOP, Spring Rest, Spring Data, SpringMVC, Spring Security, Spring Boot.
 
-👨‍🔬 Recentemente, terminei um Bootcamp ***Fullstack*** focado em ***Java*** para ***desenvolvimento Web***. Foi um Sprint legal entre aprender uma série de tecnologias e me ver diante de situações desafiadoras, tendo de correr atrás de cursos para alcançar o meu objetivo e resolver inúmeros problemas; devorei muito conteúdo nesse meio tempo e estou em uma "paixonite" com o Framework Spring e o Java EE 😜. O "modelo" FullStack me chama muita atenção e interesse por ter contato com um número elevado de tecnologias, e também acaba gerando uma autonomia maior por você ser o responsável, como diria a Netflix, pelo ciclo todo de uma aplicação.
+Uma parcela dessas ferramentas eu já aprendi e estão nos projetos do meu repositório, o intuito é aprender mais, e ir integrando ferramentas mais avançadas, enquanto garanto que sei um pouco de ferramentas mais antigas, e também as atuais do mercado.
 
-Meus próximos passos envolvem criar mais alguns projetos com foco em API's, FullStack e coisas do gênero, bem como continuar fazendo cursos para aprender mais sobre o Spring e aplicações/frameworks diversos/as do Java/Java EE/Jakarta
+Esse Sprint é praticamente uma Story de um Epic que vai até ali por ***2023***, no qual eu fecho o ciclo e irei buscar a certificação ***OCAJP*** (Oracle Certified Associate Java Programmer).
 
-
-### Tecnologias e ferramentas ###
-'<img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/java/java-original.svg" height="23" alt="Java" title="Java" />
-&nbsp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/css3/css3-original.svg" height="23" alt="CSS3" title="CSS3" />
-&nbsp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/html5/html5-original.svg" height="23" alt="HTML5" title="HTML5" />
-&nbsp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/jquery/jquery-original.svg" height="23" alt="JQuery" title="JQuery" />
-&nbsp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/spring/spring-original.svg" height="23" alt="Spring" title="Spring" />
-&nbsp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/postgresql/postgresql-original.svg" height="23" alt="PostgreSQL" title="PostgreSQL" />
-&nbsp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/mysql/mysql-original.svg" height="23" alt="MySQL" title="MySQL" />
-&nbsp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/bootstrap/bootstrap-original.svg" height="23" alt="Bootstrap" title="Bootstrap" />
-&nbsp;
-<img src="https://design.jboss.org/hibernate/logo/final/hibernate_logo_whitebkg_stacked_256px.gif" height="23" alt="Hibernate" title="Hibernate" />
-
-
-### Pretendo aprender
-
-'<img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/angularjs/angularjs-original.svg" height="23" alt="Angular" title="Angular" />
-&nbsp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/javascript/javascript-plain.svg" height="23" alt="JavaScript" title="JavaScript" /> 
-
-
- 
