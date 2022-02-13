@@ -1,16 +1,10 @@
 
 
-#  Olá! Bem vindx! :wave:
+#  Hello there! Welcome :wave:
 
-👨‍🔬 Em Outubro, terminei um Bootcamp ***Fullstack*** focado em ***Java*** para ***desenvolvimento Web***, de onde comecei minha carreira como desenvolvedor e também dei entrada na faculdade de Engenharia de Software.
+In October (2021), i finished a Fullstack Bootcamp focused in Java for Web development, from where i also joined College, a Bachelor in Software Engineering. ( And i really started loving Java. )
+Since then, I'm heavily focusing on courses, projects that i 'post' on Github, and reading.
 
-Estou em um Sprint de cursos para aprender diversos frameworks/ferramentas que se integram ao Java, e poder ter uma noção legal, me tornar um desenvolvedor melhor e mais articulado. O objetivo é, até o final deste ano (2021) ter uma noção melhor sobre:
+You could say that I'm in an 'Epic' to be a very articulate developer / engineer, and in that context, my actual 'Story' as of now, is to learn tools and frameworks that integrate with Java such as the Spring Framework, or to better understand Databases such as Mongo and SQL Server.
 
-- Jakarta EE / Java EE : JAX-RS, JAX-WS, EJB, CDI, JPA, JTA, JDBC, Hibernate
-- JSP, JSF, PrimeFaces, RichFaces, Struts, Thymeleaf
-- Spring Core, Spring AOP, Spring Rest, Spring Data, SpringMVC, Spring Security, Spring Boot.
-
-Uma parcela dessas ferramentas eu já aprendi e estão nos projetos do meu repositório, o intuito é aprender mais, e ir integrando ferramentas mais avançadas, enquanto garanto que sei um pouco de ferramentas mais antigas, e também as atuais do mercado.
-
-Esse Sprint é praticamente uma Story de um Epic que vai até ali por ***2023***, no qual eu fecho o ciclo e irei buscar a certificação ***OCAJP*** (Oracle Certified Associate Java Programmer).
-
+The "Big idea" here is to reach a level of knowledge that will make me solve harder problems while making me struggle a bit less in them, and to not only have a foundation level of even legacy tools, but also to be very updated in the newer ones.
